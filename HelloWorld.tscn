@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://csewsa4naqfjd"]
+
+[ext_resource type="Texture2D" uid="uid://cj4n6nge6dkul" path="res://000-DartMonkey.png" id="1_q3wob"]
+
+[node name="Node2D" type="Node2D" unique_id=254825769]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1533698348]
+texture = ExtResource("1_q3wob")
+offset = Vector2(320, 240)
